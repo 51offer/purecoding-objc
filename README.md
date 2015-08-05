@@ -91,8 +91,9 @@
 #### 前缀
 
 - 统一使用三字母前缀
-- 项目文件前缀与项目英文名一致，如 51offer 用 OFF-， Visa 用 VIS-
-- 我们有 objc 代码库 FORLibrary ，与项目无关的通用组件统一用 FOR- 前缀
+- 项目文件前缀与项目英文名一致，如 51offer 用 `OFF-`， Visa 用 `VIS-`
+- 我们有 objc 代码库 FORLibrary ，与项目无关的通用组件统一用 `FOR-` 前缀
+- 所有category方法必须加上前缀 `for_`
 
 #### 后缀缩写
 
